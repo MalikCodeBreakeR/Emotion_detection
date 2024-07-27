@@ -1,13 +1,9 @@
 Note: python version should be 3.9.0
 https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64.exe
 
-pip install numpy==1.22.4 typing-extensions==4.5.0
-pip install absl-py==1.0.0 flatbuffers==24.3.25 h5py==3.10.0
-pip install tensorboard==2.17.0
-pip check
-pip install numpy==1.22.4 typing-extensions==4.5.0
-pip install absl-py==1.0.0 flatbuffers==24.3.25 h5py==3.10.0
-pip install tensorboard==2.17.0
-python gui.py  //open the gui location after that run.
+pip install scikit-learn
+pip install tensorflow==2.5.0
+pip install pillow
+pip install opencv-python
 
 The versions of tensorflow and the keras must be same.
