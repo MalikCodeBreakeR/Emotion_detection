@@ -7,3 +7,4 @@ To use our Emotion Detection Model
 3.run the gui.py file
 4.upload the image in the gui
 5.click on the Detect button to detect the emotion.
+ I had prvidet the text file for step by step environment setup
