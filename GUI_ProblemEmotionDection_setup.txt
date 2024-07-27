@@ -1,9 +1,15 @@
 Note: python version should be 3.9.0
 https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64.exe
-
-pip install scikit-learn
-pip install tensorflow==2.5.0
-pip install pillow
-pip install opencv-python
-
+i) Create environment--->
+       a) open terminal write
+       b) virtualenv <name_of_your_virtual_environment>
+ii) To activate---> 
+        .\<name_of_your_virtual_environment>\Scripts\activate.ps1
+iii) requirements --->
+        pip install scikit-learn
+        pip install tensorflow==2.5.0
+        pip install pillow
+        pip install opencv-python
 The versions of tensorflow and the keras must be same.
+
+Thank you visit again :)
